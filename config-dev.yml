@@ -2,4 +2,4 @@ server:
   port: 8001
 
 config:
-  info: 新信息
+  info: 新信息----
