@@ -1,2 +1,5 @@
 config:
   info: 消息总线666
+
+person:
+  name: zs
